@@ -1,0 +1,5 @@
+API: 2024/01/11 13:16:54 main.go:139: Method: GET	Path: /definition/feuille	Duration: 0s
+API: 2024/01/11 13:16:57 main.go:139: Method: GET	Path: /mots	Duration: 0s
+API: 2024/01/11 13:19:46 main.go:139: Method: GET	Path: /definition/feuille	Duration: 991.2µs
+API: 2024/01/11 13:19:59 main.go:139: Method: GET	Path: /mots	Duration: 216.1µs
+API: 2024/01/11 13:20:05 main.go:139: Method: GET	Path: /definition/mon2ndMot	Duration: 465.7µs
